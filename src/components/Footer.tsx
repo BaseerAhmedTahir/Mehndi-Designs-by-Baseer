@@ -38,7 +38,7 @@ export function Footer() {
           <div className="lg:col-span-2 space-y-6">
             <div className="flex items-center space-x-2">
               <Sparkles className="h-8 w-8 text-purple-400" />
-              <span className="text-2xl font-bold">Mehndi Magic</span>
+              <span className="text-2xl font-bold">Mehndi Magic by Baseer</span>
             </div>
             
             <p className="text-gray-300 leading-relaxed max-w-md">
@@ -164,7 +164,7 @@ export function Footer() {
         {/* Bottom Footer */}
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-gray-400 text-sm">
-            © 2024 Mehndi Magic. All rights reserved.
+            © 2024 Mehndi Magic by Baseer. All rights reserved.
           </div>
           <div className="flex space-x-6 text-sm text-gray-400">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
