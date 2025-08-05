@@ -206,12 +206,12 @@ export function HeroSection() {
   };
 
   const sampleImages = [
-    '/mehndi/uK8hPxhT0Jchn83VvrRsu.png',
-    '/mehndi/Qt7YCtakg7suvyjkr0Yy2.png',
-    '/mehndi/oypkTDt7teO_8gWy-SklT.png',
-    '/mehndi/iXUfo0zziwICwSLOlQ8Ah.png',
-    '/mehndi/U5sbQ_T7tVBAGB92Afct-.png',
-    '/mehndi/BAWZoGxlNhR23jIZDy5rz.png'
+    'https://raw.githubusercontent.com/BaseerAhmedTahir/Mehndi-Designs-by-Baseer/main/public/mehndi/uK8hPxhT0Jchn83VvrRsu.png',
+    'https://raw.githubusercontent.com/BaseerAhmedTahir/Mehndi-Designs-by-Baseer/main/public/mehndi/Qt7YCtakg7suvyjkr0Yy2.png',
+    'https://raw.githubusercontent.com/BaseerAhmedTahir/Mehndi-Designs-by-Baseer/main/public/mehndi/oypkTDt7teO_8gWy-SklT.png',
+    'https://raw.githubusercontent.com/BaseerAhmedTahir/Mehndi-Designs-by-Baseer/main/public/mehndi/iXUfo0zziwICwSLOlQ8Ah.png',
+    'https://raw.githubusercontent.com/BaseerAhmedTahir/Mehndi-Designs-by-Baseer/main/public/mehndi/U5sbQ_T7tVBAGB92Afct-.png',
+    'https://raw.githubusercontent.com/BaseerAhmedTahir/Mehndi-Designs-by-Baseer/main/public/mehndi/BAWZoGxlNhR23jIZDy5rz.png'
   ];
 
   return (
